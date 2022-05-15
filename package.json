@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon Account/stellar.js"
   },
-  "author": "",
+  "author": "Jonathan Flores Pacheco",
   "license": "ISC",
   "description": ""
 }
