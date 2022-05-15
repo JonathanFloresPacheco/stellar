@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "stellar-sdk": "^10.1.0"
+  },
+  "name": "stellar",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon Account/stellar.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
